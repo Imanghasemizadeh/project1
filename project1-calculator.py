@@ -33,7 +33,7 @@ if op == "cos":
     result = math.cos(math.radians(num))                        
 
 if op == "tan":
-    num =float(input("enter num5 :"))
+    num =float(input("enter num :"))
     result = math.tan(math.radians(num))
 
 if op == "cot":
