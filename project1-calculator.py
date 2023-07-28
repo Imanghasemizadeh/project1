@@ -41,7 +41,7 @@ if op == "cot":
     if  math.sin(math.radians(num)) == 0 :
         result = "erorr"
     else:
-        result = 1/math.tan(math.radians(num6))
+        result = 1/math.tan(math.radians(num))
 
 if op == "!" :
     num = int(input("enter num : "))
