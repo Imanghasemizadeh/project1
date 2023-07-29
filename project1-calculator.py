@@ -27,7 +27,7 @@ if op == "/":
 
 if op == "sin": 
     num = float(input("enter num "))
-    result = math.sim(math.radians(num))
+    result = math.sin(math.radians(num))
 if op == "cos":
     num = float(input("enter num : "))
     result = math.cos(math.radians(num))                        
